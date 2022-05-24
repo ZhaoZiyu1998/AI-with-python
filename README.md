@@ -9,6 +9,7 @@ You can click to choose a starting point and a end point
 and then you could draw the walls
 press s for reset
 press return (enter) key for run this algorthimn
-###ML for Linear regression
+### ML Linear regression
 Linear regression for a student grade
 ### Knn for cars
+
