@@ -12,4 +12,6 @@ press return (enter) key for run this algorthimn
 ### ML Linear regression
 Linear regression for a student grade
 ### Knn for cars
-
+check the fold
+### K-mean
+the code is easy and I have learnt the basic theory in Concordia, however, I found the documatation is very complicated and I will spend some time on it
